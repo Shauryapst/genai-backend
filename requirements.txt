@@ -1,0 +1,13 @@
+fastapi
+pydantic
+uvicorn
+python-dotenv
+google-generativeai
+python-multipart
+pillow
+pypdf
+langchain
+langchain-community
+chromadb
+faiss-cpu
+langchain-google-genai
